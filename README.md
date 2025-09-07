@@ -46,7 +46,7 @@ EmployeeManagementSystem/
 
 ⚙️ Setup Instructions
 1. Clone Repository
-git clone https://github.com/debugwithpriya/EmployeeManagementSystem.git
+git clone https://github.com/debugwithpriya/JDBC_Employee.git
 
 
 2. Configure Database
